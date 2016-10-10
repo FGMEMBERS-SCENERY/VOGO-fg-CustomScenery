@@ -1,0 +1,17 @@
+OBJECT_BASE 4151902.btg
+OBJECT VAGO.btg
+OBJECT_SHARED Models/Airport/beacon.xml 73.831132 15.382228 45.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.815089 15.378321 28.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.847755 15.383346 54.1 0.00
+OBJECT VAGO.btg
+OBJECT_SHARED Models/Airport/beacon.xml 73.831132 15.382228 45.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.815089 15.378321 28.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.847755 15.383346 54.1 0.00
+OBJECT VAGO.btg
+OBJECT_SHARED Models/Airport/beacon.xml 73.831132 15.382228 45.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.815089 15.378321 28.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.847755 15.383346 54.1 0.00
+OBJECT VAGO.btg
+OBJECT_SHARED Models/Airport/beacon.xml 73.831132 15.382228 45.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.815089 15.378321 28.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 73.847755 15.383346 54.0 0.00

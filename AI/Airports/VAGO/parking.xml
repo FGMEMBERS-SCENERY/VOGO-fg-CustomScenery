@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<groundnet>
+  <parkinglist>
+  
+    <Parking index="0"
+    	 type="gate"
+    	 name="Civil_Apron"
+    	 number="8"
+    	 lat="N15.384451 0.0"
+    	 lon="E73.833701 0.0"
+    	 heading="257.23"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+    <Parking index="1"
+    	 type="gate"
+    	 name="Civil_Apron"
+    	 number="5"
+    	 lat="N15.384201 0.0"
+    	 lon="E73.835798 0.0"
+    	 heading="347.8"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+    <Parking index="2"
+    	 type="gate"
+    	 name="Civil_Apron"
+    	 number="10"
+    	 lat="N15.383567 0.0"
+    	 lon="E73.838099 0.0"
+    	 heading="346.2"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+    <Parking index="3"
+    	 type="gate"
+    	 name="Military_Apron_N"
+    	 number="5"
+    	 lat="N15.382779 0.0"
+    	 lon="E73.825963 0.0"
+    	 heading="167.84"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+
+  <!-- MiG-29 -->
+    <Parking index="4"
+    	 type="gate"
+    	 name="Military_Apron_N"
+    	 number="6"
+    	 lat="N15.381069 0.0"
+    	 lon="E73.82223 0.0"
+    	 heading="255.6"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+ 
+    <Parking index="5"
+    	 type="gate"
+    	 name="Military_Apron_N"
+    	 number="7"
+    	 lat="N15.380434 0.0"
+    	 lon="E73.819873  0.0"
+    	 heading="72.28"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+ 
+
+<!--   lat="N15.377643 0.0"
+    	 lon="E73.83163 0.0"  -->
+
+    <!-- Harrier  --> 
+    <Parking index="6"
+    	 type="gate"  
+    	 name="Military_Apron_S"
+    	 number="1"
+    	 lat="N15.377664 0.0"
+    	 lon="E73.831756 0.0"   
+    	 heading="348.6"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+
+  <!-- Helicopter -->
+    <Parking index="7"
+    	 type="gate"
+    	 name="Military_Apron_SH"
+    	 number="2"
+    	 lat="N15.377708 0.0"
+    	 lon="E73.833938 0.0"
+    	 heading="348.6"
+    	 radius="17.3"
+    	 airlineCodes=""
+         pushBack="left"/>
+
+  </parkinglist> 
+  <!--
+  <TaxiNodes>
+     </TaxiNodes>
+  <TaxiWaySegments>
+     </TaxiWaySegments>
+-->
+</groundnet>

@@ -1,0 +1,874 @@
+AC3Db
+MATERIAL "ID300" rgb 1 1 1  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.2 0.2 0.2  shi 128  trans 0
+MATERIAL "DefaultWhite.004" rgb 1 1 1  amb 1 1 1  emis 0 0 0  spec 0.5 0.5 0.5  shi 64  trans 0
+OBJECT world
+kids 50
+OBJECT poly
+name "l_pedal_L.001"
+data 8
+Mesh.002
+crease 30.000000
+kids 0
+OBJECT poly
+name "interior-back"
+loc 0 0 -5.38421e-010
+data 13
+interior-back
+crease 30.000000
+kids 0
+OBJECT poly
+name "interior-back"
+loc 0 0 -5.38421e-010
+data 13
+interior-back
+crease 30.000000
+kids 0
+OBJECT poly
+name "NGActuator"
+loc 0.102867 -0.714277 0
+data 9
+Mesh.1240
+crease 30.000000
+kids 0
+OBJECT poly
+name "NGActuator"
+loc 0.102867 14.1857 0
+data 9
+Mesh.1240
+crease 30.000000
+kids 0
+OBJECT poly
+name "NGActuator"
+loc 0.102867 24.4857 11.5
+data 9
+Mesh.1240
+crease 30.000000
+kids 0
+OBJECT poly
+name "NGActuator"
+loc 0.102867 11.1857 0
+data 9
+Mesh.1577
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane"
+loc -0.0186826 -0.0630159 -3.91233e-006
+texture "t2.png"
+crease 45.000000
+numvert 24
+20.3638 10.3118 10.7418
+20.3638 10.2893 16.8616
+-20.6799 10.2893 16.8616
+-20.6799 10.3118 10.7418
+20.3638 10.2929 -11.0437
+20.3638 10.2929 -17.1695
+-20.6799 10.2929 -17.1695
+-20.6799 10.2929 -11.0437
+-20.6799 13.4882 2.2761e-006
+-20.6799 10.297 -13.4098
+20.3638 10.297 -13.4098
+20.3638 13.4882 2.2761e-006
+-20.6799 13.4882 7.58721e-007
+-20.6799 10.297 13.4098
+20.3638 10.297 13.4098
+20.3638 13.4882 7.58721e-007
+-20.6799 10.297 -13.4098
+-20.6799 10.297 13.4098
+-20.6799 13.4882 7.58721e-007
+-20.6799 10.297 7.58721e-007
+20.3638 10.297 7.58721e-007
+20.3638 13.4882 7.58721e-007
+20.3638 10.297 -13.4098
+20.3638 10.297 13.4098
+numsurf 8
+SURF 0x20
+mat 1
+refs 4
+0 0.00585938 0.734375
+3 2.08789 0.736328
+2 2.08789 0.990234
+1 0.00585938 0.988281
+SURF 0x20
+mat 1
+refs 4
+5 0.00585938 0.734375
+6 2.08789 0.736328
+7 2.08789 0.990234
+4 0.00585938 0.988281
+SURF 0x20
+mat 1
+refs 4
+10 0.00585938 0.740234
+9 2.08789 0.740234
+8 2.08789 0.988281
+11 0.00585938 0.988281
+SURF 0x20
+mat 1
+refs 4
+15 0.00585938 0.740234
+12 2.08789 0.740234
+13 2.08789 0.988281
+14 0.00585938 0.988281
+SURF 0x20
+mat 1
+refs 3
+19 0.0078125 0.996094
+17 0.998047 0.998047
+18 0.0078125 0.904297
+SURF 0x20
+mat 1
+refs 3
+19 0.998047 0.904297
+18 0.998047 0.998047
+16 0.0078125 0.904297
+SURF 0x20
+mat 1
+refs 3
+20 0.0078125 0.996094
+22 0.998047 0.998047
+21 0.0078125 0.904297
+SURF 0x20
+mat 1
+refs 3
+20 0.998047 0.904297
+21 0.998047 0.998047
+23 0.0078125 0.904297
+kids 0
+OBJECT group
+name "Curve.003"
+loc 0 2.52833 0
+kids 1
+OBJECT group
+name "Curve.008_0.003"
+kids 1
+OBJECT group
+name "sky"
+kids 1
+OBJECT poly
+name "sky_0"
+data 8
+Mesh.001
+crease 30.000000
+kids 0
+OBJECT group
+name "Curve.005"
+loc 0 2.52833 0
+kids 1
+OBJECT group
+name "Curve.008_0.006"
+kids 1
+OBJECT poly
+name "Curve.008_0.010_0.002"
+data 8
+Mesh.005
+crease 30.000000
+kids 0
+OBJECT group
+name "Curve.006"
+loc 0 2.52833 0
+kids 1
+OBJECT group
+name "Curve.008_0.007"
+kids 1
+OBJECT group
+name "sky.001"
+kids 1
+OBJECT poly
+name "sky_0.003"
+data 8
+Mesh.006
+crease 30.000000
+kids 0
+OBJECT group
+name "Curve.007"
+loc 0 2.52833 0
+kids 1
+OBJECT group
+name "Curve.008_0.008"
+kids 1
+OBJECT group
+name "sky.003"
+kids 1
+OBJECT poly
+name "sky_0.001"
+data 8
+Mesh.007
+crease 30.000000
+kids 0
+OBJECT group
+name "Curve.009"
+loc 0 2.52833 0
+kids 1
+OBJECT poly
+name "Curve.008_0.004"
+data 8
+Mesh.008
+crease 30.000000
+kids 0
+OBJECT group
+name "Plane.019"
+loc 0 2.52833 0
+kids 1
+OBJECT group
+name "Plane.017"
+kids 1
+OBJECT group
+name "Plane.067"
+kids 1
+OBJECT group
+name "Plane.066"
+kids 1
+OBJECT group
+name "fuselage_eyebrow"
+kids 1
+OBJECT poly
+name "fuselage_eyebrow_0"
+data 8
+Mesh.011
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.006"
+loc 0 2.52833 0
+data 9
+Plane.017
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.007"
+loc 0 2.52833 0
+data 9
+Plane.018
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.008"
+loc 0 2.52833 0
+data 9
+Plane.019
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.009"
+loc 0 2.52833 0
+data 9
+Plane.020
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.012"
+loc 0 2.52833 0
+data 9
+Plane.022
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.013"
+loc 0 2.52833 0
+data 9
+Plane.023
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.014"
+loc 0 2.52833 0
+data 9
+Plane.024
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.016"
+loc 0 2.52833 0
+data 9
+Plane.252
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.026"
+loc 0 2.52833 0
+data 9
+Plane.254
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.053"
+loc 0 2.52833 0
+data 9
+Plane.257
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.058"
+loc 0 2.52833 0
+data 9
+Plane.258
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.061"
+loc 0 2.52833 0
+data 9
+Plane.260
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.062"
+loc 0 2.52833 0
+data 9
+Plane.261
+crease 30.000000
+kids 0
+OBJECT poly
+name "Plane.063"
+loc 0 2.52833 0
+data 9
+Plane.262
+crease 30.000000
+kids 0
+OBJECT poly
+name "face.001"
+loc 0 2.52833 0
+data 9
+Plane.265
+crease 30.000000
+kids 0
+OBJECT poly
+name "face.002"
+loc 0 2.52833 0
+data 9
+Plane.266
+crease 30.000000
+kids 0
+OBJECT poly
+name "interior_0"
+loc 0 2.52833 0
+data 10
+Mesh.16757
+crease 30.000000
+kids 0
+OBJECT poly
+name "lhfuselage.001"
+loc 0 2.52833 0
+data 10
+Mesh.16773
+crease 30.000000
+kids 0
+OBJECT poly
+name "mglhtyrelh.003"
+loc 0 2.52833 0
+data 10
+Mesh.16790
+crease 30.000000
+kids 0
+OBJECT poly
+name "mgrhtyrelh.003"
+loc 0 2.52833 0
+data 10
+Mesh.16796
+crease 30.000000
+kids 0
+OBJECT poly
+name "mgrhtyrerh.003"
+loc 0 2.52833 0
+data 10
+Mesh.16797
+crease 30.000000
+kids 0
+OBJECT poly
+name "rahmen"
+loc 0 2.52833 0
+data 10
+Mesh.16815
+crease 30.000000
+kids 0
+OBJECT poly
+name "rhfan"
+loc 0 2.52833 0
+data 10
+Mesh.16825
+crease 30.000000
+kids 0
+OBJECT poly
+name "rudder.002"
+loc 0 2.52833 0
+data 10
+Mesh.16856
+crease 30.000000
+kids 0
+OBJECT poly
+name "Door8"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 8
+Cube.018
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+20.6502 8.74401 -8.58782
+20.6502 -0.208217 -8.58782
+20.6502 -0.208217 -17.1483
+20.6502 8.74401 -17.1483
+20.4973 8.74401 -8.58782
+20.4973 -0.208217 -8.58782
+20.4973 -0.208217 -17.1483
+20.4973 8.74401 -17.1483
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+4 0.432421 0.296349
+7 0.273043 0.296349
+6 0.273043 0.204442
+5 0.432421 0.204442
+SURF 0x20
+mat 0
+refs 4
+0 0.432421 0.296349
+4 0.432421 0.296349
+5 0.432421 0.204442
+1 0.432421 0.204442
+SURF 0x20
+mat 0
+refs 4
+2 0.252441 0.548842
+6 0.252441 0.548842
+7 0.252441 0.716708
+3 0.252441 0.716708
+SURF 0x20
+mat 0
+refs 4
+4 0.379677 0.716708
+0 0.379677 0.716708
+3 0.252441 0.716708
+7 0.252441 0.716708
+kids 0
+OBJECT poly
+name "Door5"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 8
+Cube.015
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+20.1915 8.74401 16.8739
+20.1915 -0.208217 16.8739
+20.1915 -0.208217 8.31346
+20.1915 8.74401 8.31346
+20.0386 8.74401 16.8739
+20.0386 -0.208217 16.8739
+20.0386 -0.208217 8.31346
+20.0386 8.74401 8.31346
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+4 0.906466 0.296349
+7 0.747089 0.296349
+6 0.747089 0.204442
+5 0.906466 0.204442
+SURF 0x20
+mat 0
+refs 4
+0 0.18621 0.639942
+4 0.18621 0.639942
+5 0.18621 0.460433
+1 0.18621 0.460433
+SURF 0x20
+mat 0
+refs 4
+2 0.747089 0.204442
+6 0.747089 0.204442
+7 0.747089 0.296349
+3 0.747089 0.296349
+SURF 0x20
+mat 0
+refs 4
+4 0.18621 0.639942
+0 0.18621 0.639942
+3 0.00789416 0.639942
+7 0.00789416 0.639942
+kids 0
+OBJECT poly
+name "RearWindows"
+loc -20.7257 -0.0630159 0.186791
+data 9
+Plane.016
+texture "tu-hanger.png"
+crease 30.000000
+numvert 4
+0 10.2873 -17.9531
+0 8.39925 -17.9531
+0 8.39925 17.6462
+0 10.2873 17.6462
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0.23676 0.773785
+0 0.00216478 0.773785
+1 0.00216478 0.738366
+2 0.23676 0.738366
+kids 0
+OBJECT poly
+name "Door4"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 8
+Cube.014
+texture "tu-hanger.png"
+crease 30.000000
+numvert 4
+20.0386 8.74401 16.8739
+20.0386 -0.208217 16.8739
+20.1915 8.74401 16.8739
+20.1915 -0.208217 16.8739
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0 0
+1 0 0
+0 0 0
+2 0 0
+kids 0
+OBJECT poly
+name "Door7"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 8
+Cube.017
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+20.4973 8.74401 -0.137188
+20.4973 -0.208217 -0.137188
+20.4973 -0.208217 -8.69762
+20.4973 8.74401 -8.69762
+20.3444 8.74401 -0.137188
+20.3444 -0.208217 -0.137188
+20.3444 -0.208217 -8.69762
+20.3444 8.74401 -8.69762
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+4 0.589755 0.296349
+7 0.430377 0.296349
+6 0.430377 0.204442
+5 0.589755 0.204442
+SURF 0x20
+mat 0
+refs 4
+0 0.589755 0.296349
+4 0.589755 0.296349
+5 0.589755 0.204442
+1 0.589755 0.204442
+SURF 0x20
+mat 0
+refs 4
+2 0.430377 0.204442
+6 0.430377 0.204442
+7 0.430377 0.296349
+3 0.430377 0.296349
+SURF 0x20
+mat 0
+refs 4
+4 0.191067 0.72093
+0 0.191067 0.72093
+3 0.0342755 0.72093
+7 0.0342755 0.72093
+kids 0
+OBJECT poly
+name "Door6"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 8
+Cube.016
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+20.3444 8.74401 8.36833
+20.3444 -0.208217 8.36833
+20.3444 -0.208217 -0.192063
+20.3444 8.74401 -0.192063
+20.1915 8.74401 8.36833
+20.1915 -0.208217 8.36833
+20.1915 -0.208217 -0.192063
+20.1915 8.74401 -0.192063
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+4 0.74811 0.296349
+7 0.588733 0.296349
+6 0.588733 0.204442
+5 0.74811 0.204442
+SURF 0x20
+mat 0
+refs 4
+0 0.74811 0.296349
+4 0.74811 0.296349
+5 0.74811 0.204442
+1 0.74811 0.204442
+SURF 0x20
+mat 0
+refs 4
+2 0.588733 0.204442
+6 0.588733 0.204442
+7 0.588733 0.296349
+3 0.588733 0.296349
+SURF 0x20
+mat 0
+refs 4
+4 0.152936 0.704992
+0 0.152936 0.704992
+3 0.00904992 0.704992
+7 0.00904992 0.704992
+kids 0
+OBJECT poly
+name "Walls"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 9
+Plane.028
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+-20.691 -0.208217 -17.8467
+-20.691 8.74048 -17.8467
+-20.691 -0.208217 -14.613
+-20.691 8.74048 -14.613
+-20.691 -0.208217 17.8467
+-20.691 8.74048 17.8467
+-20.691 -0.208217 14.613
+-20.691 8.74048 14.613
+numsurf 2
+SURF 0x20
+mat 0
+refs 4
+1 0.556028 0.676716
+0 0.556028 0.512189
+2 0.716097 0.512189
+3 0.716097 0.676716
+SURF 0x20
+mat 0
+refs 4
+7 0.55463 0.680972
+6 0.55463 0.512103
+4 0.734457 0.512103
+5 0.734457 0.680972
+kids 0
+OBJECT poly
+name "Walls"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 9
+Plane.028
+texture "tu-hanger.png"
+crease 30.000000
+numvert 10
+20.0657 -0.208127 16.874
+20.0657 8.74409 16.874
+-20.635 -0.208217 -16.0508
+-20.635 8.74401 -16.0508
+-20.635 -0.208217 -17.1483
+-20.635 8.74401 -17.1483
+20.6502 -0.208217 -17.1483
+20.6502 8.74401 -17.1483
+-20.635 -0.208217 16.8739
+-20.635 8.74401 16.8739
+numsurf 3
+SURF 0x20
+mat 0
+refs 4
+9 -0.000392981 0.310279
+8 -0.000392981 0.444873
+0 0.370716 0.444872
+1 0.370716 0.310279
+SURF 0x20
+mat 0
+refs 4
+5 0.590599 0.676763
+4 0.590599 0.512189
+2 0.644925 0.512189
+3 0.644925 0.676763
+SURF 0x20
+mat 0
+refs 4
+7 0.577901 0.310318
+6 0.577901 0.446486
+4 0.185093 0.446486
+5 0.185093 0.310318
+kids 0
+OBJECT poly
+name "Walls"
+loc -0.0186826 -0.0630159 -1.90735e-006
+data 9
+Plane.028
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+-20.6548 -0.208217 15.7653
+-20.6548 8.74048 15.7653
+-20.2733 -0.20814 15.7652
+-20.2733 8.74056 15.7652
+-20.6548 -0.208217 -16.1277
+-20.6548 8.74048 -16.1277
+-20.2733 -0.20814 -16.1276
+-20.2733 8.74056 -16.1276
+numsurf 2
+SURF 0x0
+mat 0
+refs 4
+1 0.61871 0.680972
+3 0.618707 0.680973
+2 0.618707 0.512104
+0 0.61871 0.512103
+SURF 0x0
+mat 0
+refs 4
+4 0.235577 0.459145
+6 0.235581 0.459147
+7 0.235581 0.802236
+5 0.235577 0.802234
+kids 0
+OBJECT poly
+name "RearWindows"
+loc 20.3418 -0.0630159 0.186791
+data 9
+Plane.016
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+0 10.2873 -17.3592
+0 8.39925 -17.3592
+0 8.39925 16.676
+0 10.2873 16.676
+6.10352e-005 10.2874 16.6761
+6.10352e-005 10.2874 -17.3592
+6.10352e-005 8.39933 -17.3592
+6.10352e-005 8.39933 16.6761
+numsurf 5
+SURF 0x20
+mat 0
+refs 4
+3 0 0
+4 0 0
+5 0 0
+0 0 0
+SURF 0x20
+mat 0
+refs 4
+0 0 0
+5 0 0
+6 0 0
+1 0 0
+SURF 0x20
+mat 0
+refs 4
+1 0 0
+6 0 0
+7 0 0
+2 0 0
+SURF 0x20
+mat 0
+refs 4
+2 0 0
+7 0 0
+4 0 0
+3 0 0
+SURF 0x20
+mat 0
+refs 4
+7 0.470542 0.724842
+6 0.253421 0.724842
+5 0.253421 0.796952
+4 0.470542 0.796952
+kids 0
+OBJECT poly
+name "RearWindows"
+loc 20.3418 -0.0630159 0.186791
+data 9
+Plane.016
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+-41.031 8.39933 16.6751
+-0.0101414 8.39933 16.6751
+-0.0101414 10.2874 16.6751
+-41.031 10.2874 16.6751
+-41.031 10.2873 16.675
+-41.031 8.39925 16.675
+-0.0100803 8.39925 16.675
+-0.0100803 10.2873 16.675
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+0 0.237876 0.759141
+1 0.00296242 0.759141
+2 0.00296242 0.79456
+3 0.237876 0.79456
+SURF 0x20
+mat 0
+refs 4
+5 0 0
+0 0 0
+3 0 0
+4 0 0
+SURF 0x20
+mat 0
+refs 4
+7 0 0
+2 0 0
+1 0 0
+6 0 0
+SURF 0x20
+mat 0
+refs 4
+4 0 0
+3 0 0
+2 0 0
+7 0 0
+kids 0
+OBJECT poly
+name "RearWindows"
+loc 20.3418 -0.0630159 0.186791
+data 9
+Plane.016
+texture "tu-hanger.png"
+crease 30.000000
+numvert 8
+-0.0100803 10.2873 -17.3338
+-0.0100803 8.39925 -17.3338
+-41.031 8.39925 -17.3338
+-41.031 10.2873 -17.3338
+-41.031 10.2874 -17.3338
+-0.0101414 10.2874 -17.3338
+-0.0101414 8.39933 -17.3338
+-41.031 8.39933 -17.3338
+numsurf 4
+SURF 0x20
+mat 0
+refs 4
+3 0.237876 0.79456
+0 0.00296242 0.79456
+1 0.00296242 0.759141
+2 0.237876 0.759141
+SURF 0x20
+mat 0
+refs 4
+3 0 0
+4 0 0
+5 0 0
+0 0 0
+SURF 0x20
+mat 0
+refs 4
+0 0 0
+5 0 0
+6 0 0
+1 0 0
+SURF 0x20
+mat 0
+refs 4
+2 0 0
+7 0 0
+4 0 0
+3 0 0
+kids 0

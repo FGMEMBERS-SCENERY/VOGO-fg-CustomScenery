@@ -1,0 +1,22 @@
+VAGO (Dabolim NAS a.k.a. Dabolim airport) 
+is located in the village of Dabolim in Goa, India. It is the only airport in the state 
+and operates as a civil enclave in a military airbase named INS Hansa.
+
+http://en.wikipedia.org/wiki/Dabolim_Airport
+
+
+
+Author: Anirudh Prabhu 
+callsign: Raptor 
+Release Date: 8 March 2012
+
+
+add content of AI folder(Airports/VAGO) to $FGroot/data/AI
+add content of Models folder(Goa) to $FGroot/data/Models
+copy contents of Scenery(Objects, Terrain)  to $FGroot/data/Scenery
+
+Package includes: VAGO airport
+		  Vasco Sea port
+                  DMC(Dyanprasarak Mandal's College) campus[E 73.79701233, N 15.59747821]
+		 	  
+
